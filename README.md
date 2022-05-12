@@ -1,10 +1,10 @@
 # CSCI-544
 
 ## Programming Asssignments: 
-**Assignment-1** Implemented Naive Bayes Algorithm from scratch for spam mail classification.
-**Assignment-2** Implemented Hidden Markov Model from scratch for Parts-of-Speech Tagging.
-**Assignment-3** Implemented a BiLSTM model which achieved an accuracy of 86% for Ciphertext Classification. Implemented in PyTorch.
-**Assignment-4** Fine-tuned RoBERTa model for Natural Language Inferencing. Implemented in Tensorflow.
+- **Assignment-1** Implemented Naive Bayes Algorithm from scratch for spam mail classification.
+- **Assignment-2** Implemented Hidden Markov Model from scratch for Parts-of-Speech Tagging.
+- **Assignment-3** Implemented a BiLSTM model which achieved an accuracy of 86% for Ciphertext Classification. Implemented in PyTorch.
+- **Assignment-4** Fine-tuned RoBERTa model for Natural Language Inferencing. Implemented in Tensorflow.
 
 ## Project:
 **Extreme Multi-Label-Text-Classification**
