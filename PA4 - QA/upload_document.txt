@@ -1,0 +1,25 @@
+### Method Name ###
+Fine Tuned a RoBERTa-large-MNLI model.
+
+### Sentence pair encoder ###
+Use up to 5 sentences to describe your encoder for the sentence pairs. Need to mention the following:
+- I have used a cross-encoder
+- I have used a Transformer-based encoder - RoBERTa for encoding the sentence pairs.
+- I used a pre-trained RoBERTa model and fine-tuned it for this dataset.
+
+### Training & Development ###
+- I fine-tuned the RoBERTa model for this task.
+- I trained my model for 3 epochs setting the learning rate and batch size to 1e-5, 16 respectively. I utilized AdamW as the optimizer and binary-crossentropy as the loss function.
+- Like most of the sentence classification tasks I used Accuracy as the evaluation metrics.
+- My best accuracy on the dev dataset is 91.15%.
+
+### Other methods ###
+- I tried other smaller Transformer-based model like BERT-base and BERT-large and they gave me accuracy of about 83-85%.
+
+### Packages ###
+- Python packages utilized
+    -- numpy
+    -- pandas
+    -- tensorflow
+    -- transformers
+    -- csv
